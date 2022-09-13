@@ -10,17 +10,17 @@ h2{
 	}
 	
 	
-	.chicken{
+	#chicken{
 		background-color:#ebab34;
 		padding:.5rem;
 	}
 	
-	.beef{
+	#beef{
 		background-color:#d834eb;
 		padding:.5rem;
 	}
 	
-	.sushi{
+	#sushi{
 		background-color:#3474eb;
 		padding:.5rem;
 	}
