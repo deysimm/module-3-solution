@@ -10,7 +10,7 @@ margin:0;
 	}
 	
 	
-section #section-chicken, #section-beef, #section-sushi{
+section#section-chicken{
 background-color:#ebab34;
 padding:.5rem;
 }
