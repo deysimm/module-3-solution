@@ -13,18 +13,18 @@ h2{
 	
 	#chicken{
 		text-align:center;
-		background-color:yellow;
+		background-color:#ebab34;
 		padding:.5rem;
 	}
 	
 	#beef{
 		text-align: center;
-		background-color:rosybrown;
+		background-color:#d834eb;
 		padding:.5rem;	
 	}
 	
 	#sushi{
 		text-align:center;
-		background-color:greenyellow;
+		background-color:#3474eb;
 		padding:.5rem;
 	}
