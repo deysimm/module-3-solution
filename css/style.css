@@ -10,7 +10,23 @@ background-color:#FFDB15;
 border:3px solid #B30000;
 padding:.3rem;
 margin:0;
-	}
+}
+
+.navbar-default .navbar-nav>li>a{
+color:#B30000;
+}
+
+.navbar-toggle{
+background-color:#B30000;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+background-color:#FFDB15;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+border-color:transparent;
+}
 	
 #h3{
 text-align:center;
