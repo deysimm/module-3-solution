@@ -16,7 +16,15 @@ margin:0;
 color:#B30000;
 }
 
+.navbar-default .navbar-nav>li>a:hover{
+color:#B30000;
+}
+
 .navbar-toggle{
+background-color:#B30000;
+}
+
+.navar-toggle:hover{
 background-color:#B30000;
 }
 
