@@ -12,6 +12,15 @@ h2{
 	.navbar-toggle{
 		display:none;
 	}
+
+.row{
+ width:100%;
+   display:flex;
+   flex-wrap: no-wrap;
+   float:left;
+   justify-content:center;
+   margin:0 auto !important;
+}
 	
 	#chicken-sec{
 		text-align:center;
