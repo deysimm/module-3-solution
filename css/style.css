@@ -11,19 +11,19 @@ h2{
 	
 
 	
-	#sec-chicken{
+	#section-chicken{
 		text-align:center;
 		background-color:#ebab34;
 		padding:.5rem;
 	}
 	
-	#beef.row{
+	#section-beef{
 		text-align: center;
 		background-color:#d834eb;
 		padding:.5rem;	
 	}
 	
-	#sushi.row{
+	#section-sushi{
 		text-align:center;
 		background-color:#3474eb;
 		padding:.5rem;
