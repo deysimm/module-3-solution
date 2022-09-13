@@ -21,6 +21,10 @@ h2{
    justify-content:center;
    margin:0 auto !important;
 }
+
+#chicken-sec, #beef-sec, #sushi-sec{
+max-width:33.33%;
+}
 	
 	#chicken-sec{
 		text-align:center;
