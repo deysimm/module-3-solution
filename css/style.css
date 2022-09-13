@@ -13,7 +13,7 @@ h2{
 	
 	#section-chicken{
 		text-align:center;
-		background-color:#ebab34;
+		background-color:#ebab34 !important;
 		padding:.5rem;
 	}
 	
