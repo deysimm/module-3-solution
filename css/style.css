@@ -1,19 +1,20 @@
 h2{
 text-align: center;
+color:#B30000
+text-transform:uppercase;
 }
 	
 #header-nav{
-color:red;
+color:#B30000;
 background-color:#FFDB15;
-border:1px solid #000;
+border:3px solid #B30000;
 padding:.3rem;
 margin:0;
 	}
 	
 #h3{
 text-align:center;
-font-weight:600;
-color:#fff;
+color:#ffff;
 }
 
 #section-chicken{
@@ -22,23 +23,26 @@ background-color:#E08955;
 border:5px solid #000;
 margin:1rem;
 padding:0.5rem;
-height:300px;
+height:480px;
+font-size:1rem;
 }
 
 #section-beef{
-color:#fff;
+color:#ffff;
 background-color:#914955;
 border:5px solid #000;
 margin:1rem;
 padding:0.5rem;
-height:300px;
+height:480px;
+font-size:1rem;
 }
 
 #section-sushi{
-color:#fff;
+color:#ffff;
 background-color:#0D877A;
 border:5px solid #000;
 margin:1rem;
 padding:0.5rem;
-height:300px;
+height:480px;
+font-size:1rem;
 }
