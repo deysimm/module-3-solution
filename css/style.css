@@ -12,5 +12,6 @@ margin:0;
 	
 #section-chicken{
 background-color:red;
-margin:.5rem;
+padding:.5rem;
+margin:1rem;
 }
