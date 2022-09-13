@@ -3,7 +3,8 @@ text-align: center;
 }
 	
 #header-nav{
-background-color:#e9ddfd;
+color:red;
+background-color:#FFDB15;
 border:1px solid #000;
 padding:.3rem;
 margin:0;
