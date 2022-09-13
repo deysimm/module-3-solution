@@ -11,7 +11,22 @@ margin:0;
 	
 	
 #section-chicken{
-background-color:red;
-border:1px solid #000;
+background-color:#E08955;
+border:5px solid #000;
 margin:1rem;
+padding:0.5rem;
+}
+
+#section-beef{
+background-color:#914955;
+border:5px solid #000;
+margin:1rem;
+padding:0.5rem;
+}
+
+#section-sushi{
+background-color:#0D877A;
+border:5px solid #000;
+margin:1rem;
+padding:0.5rem;
 }
