@@ -9,9 +9,6 @@ h2{
 		margin:0;
 	}
 	
-	.navbar-toggle{
-		display:none;
-	}
 
 	
 	#chicken-sec{
@@ -30,8 +27,4 @@ h2{
 		text-align:center;
 		background-color:greenyellow;
 		padding:.5rem;
-	}
-	
-	.row{
-		margin:1rem;
 	}
