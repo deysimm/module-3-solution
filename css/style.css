@@ -9,18 +9,18 @@ h2{
 		margin:0;
 	}
 	
-div section {
-    padding:.5rem;
-}
 	
-	#section-chicken{
-		background-color:#ebab34 !important;
+	.chicken{
+		background-color:#ebab34;
+		padding:.5rem;
 	}
 	
-	#section-beef{
+	.beef{
 		background-color:#d834eb;
+		padding:.5rem;
 	}
 	
-	#section-sushi{
+	.sushi{
 		background-color:#3474eb;
+		padding:.5rem;
 	}
